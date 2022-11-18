@@ -1,0 +1,34 @@
+[
+    {
+        "img": "assets/img/Smashed Avo.png",
+        "name": "Smashed Avo"
+    },
+    {
+        "img": "assets/img/Yin & Yang.png",
+        "name": "Yin & Yang"
+    },
+    {
+        "img": "assets/img/Pancakes.png",
+        "name": "Pancakes"
+    },
+    {
+        "img": "assets/img/Huevos Rancheros.png",
+        "name": "Huevos Rancheros"
+    },
+    {
+        "img": "assets/img/Rancheros (Tofu).png",
+        "name": "Rancheros (Tofu)"
+    },
+    {
+        "img": "assets/img/Breakkie Roll 1.png",
+        "name": "Breakkie Roll 1"
+    },
+    {
+        "img": "assets/img/Breakkie Roll 2.png",
+        "name": "Breakkie Roll 2"
+    },
+    {
+        "img": "assets/img/Burrito.png",
+        "name": "Burrito"
+    }
+]
